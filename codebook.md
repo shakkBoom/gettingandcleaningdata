@@ -80,4 +80,4 @@
 "fBodyBodyGyroJerkMag-mean()" 
 "fBodyBodyGyroJerkMag-std()" 
 "fBodyBodyGyroJerkMag-meanFreq()" 
-"activityType"
+
